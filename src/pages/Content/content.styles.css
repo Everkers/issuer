@@ -1,0 +1,39 @@
+.issuer-item-container {
+  border: solid 1px var(--color-border-default);
+  border-radius: 6px;
+  padding: 14px;
+  margin-bottom: 13px;
+  display: block;
+}
+.issuer-item-container:hover {
+  text-decoration: none;
+}
+.issuer-item-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.issuer-item-header-avatar {
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
+}
+.issuer-item-header-avatar img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.issuer-item-header-username {
+  color: var(--color-fg-default);
+  font-weight: var(--base-text-weight-semibold, 600);
+  font-size: var(--h5-size, 14px);
+}
+
+.issuer-item-content .edit-comment-hide table {
+  height: 80px;
+  overflow: hidden;
+  margin-bottom: 18px;
+}
