@@ -13,6 +13,9 @@ An elegant Chrome extension designed as a GitHub add-on, seamlessly enhancing th
 
 ![image](https://github.com/Everkers/issuer/blob/master/assets/screenshots/screen1.png?raw=true)
 
+#  Stargazers
+[![Stargazers repo roster for @Everkers/issuer](https://reporoster.com/stars/dark/Everkers/issuer)](https://github.com/Everkers/issuer/stargazers)
+
 # Installation
 
 1.  Check if your [Node.js](https://nodejs.org/) version is >= **18**.
